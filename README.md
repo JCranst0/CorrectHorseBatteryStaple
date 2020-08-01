@@ -8,4 +8,4 @@ This is a relatively simple password generator. I created it as part of my work 
 The entire body of the code is written using Python 3.8.
 
 ## Launch
-Store words_list.txt and correcthorsebatteystaple.py in the same directory. Run in a Terminal Session or through PyCharm.
+Store words_list.txt and cpassword_generator.py in the same directory. Run in a Terminal Session or through PyCharm.
